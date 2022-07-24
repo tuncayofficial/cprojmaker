@@ -2,9 +2,10 @@
 echo Enter destination directory for your C project \(type 'def' for home directory\):
 
 read DIR
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 if [$DIR = "def"]; then
     DIR=$HOME
 fi
 
-git clone https://github.com/tuncayofficial/cprojmaker/tree/master/src
+cp -r $SCRIPT_DIR/src/* .
