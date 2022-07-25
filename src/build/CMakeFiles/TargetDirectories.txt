@@ -1,0 +1,3 @@
+/home/tuncay/Desktop/Tuncay/Projects/cprojects/cprojmaker/src/build/CMakeFiles/executable.dir
+/home/tuncay/Desktop/Tuncay/Projects/cprojects/cprojmaker/src/build/CMakeFiles/edit_cache.dir
+/home/tuncay/Desktop/Tuncay/Projects/cprojects/cprojmaker/src/build/CMakeFiles/rebuild_cache.dir

@@ -8,4 +8,4 @@ if [$DIR = "def"]; then
     DIR=$HOME
 fi
 
-cp -r $SCRIPT_DIR/src/* .
+cp -r $SCRIPT_DIR/src/* $DIR
